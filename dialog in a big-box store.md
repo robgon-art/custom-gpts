@@ -1,3 +1,9 @@
+# Dialog in a Big-box Store
+
+Rob: Create dialog for a couple shoppping in a big box store.
+
+RobGon Dialog Assistant:
+For a modern take inspired by classic interactions, imagine a couple, Alex and Jamie, weaving through the aisles of a sprawling big-box store. Their dynamic can draw inspiration from Elizabeth Bennet and Mr. Darcy's witty exchanges in "Pride and Prejudice" by Jane Austen, mixed with a dash of the practicality and partnership found in the relationship between Jo March and Professor Bhaer in "Little Women" by Louisa May Alcott. However, the dialogue will be rooted in a contemporary setting, reflecting the quirks of navigating a large retail space together.
 
 Alex: (Holding up a gigantic pack of toilet paper) "Do we really need this much? Our apartment isn't exactly a warehouse."
 
